@@ -107,4 +107,4 @@ Exposing open ports running outdated or unneeded services significantly increase
 * 💼 **Role:** VAPT Intern at TriosCyber
 * 📧 **Email:** umaropeyemiazeez@gmail.com
 * 🐙 **GitHub:** [itzumaz](https://github.com/itzumaz)
-*   **LinkedIn:** [Azeez Umar Opeyemi](https://www.linkedin.com/azeez-umar-opeyemi-201a433a4)
+*   **LinkedIn:** [Azeez Umar Opeyemi](https://www.linkedin.com/in/azeez-umar-opeyemi-201a433a4/)
